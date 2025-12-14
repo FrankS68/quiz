@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist die maximale Startmasse (MTOM) für unbemannte Luftfahrzeugsysteme (UAS), die in der Unterkategorie A3 betrieben werden dürfen?",
+    "antworten": [
+      "Weniger als 25 kg",
+      "Weniger als 4 kg",
+      "Weniger als 900 g"
+    ],
+    "correct_answer": "Weniger als 25 kg"
+  },
+  {
+    "id": 2,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie lange ist der EU-Kompetenznachweis A1/A3 für Fernpiloten gültig?",
+    "antworten": [
+      "3 Jahre",
+      "5 Jahre",
+      "Unbegrenzt, solange keine Änderungen an den EU-Vorschriften erfolgen"
+    ],
+    "correct_answer": "5 Jahre"
+  },
+  {
+    "id": 3,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welche maximale Flughöhe über Grund (AGL) ist für den Betrieb von UAS in der offenen Kategorie (A1/A3) in der Regel zulässig?",
+    "antworten": [
+      "150 Meter über Grund (AGL)",
+      "120 Meter über Grund (AGL)",
+      "250 Meter über Grund (AGL)"
+    ],
+    "correct_answer": "120 Meter über Grund (AGL)"
+  },
+  {
+    "id": 4,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist die Hauptanforderung an die Sichtverbindung während des Fluges in der offenen Kategorie?",
+    "antworten": [
+      "Das UAS muss immer in direkter Sichtweite (VLOS) des Fernpiloten bleiben.",
+      "Die maximale Entfernung ist auf 500 Meter horizontal begrenzt.",
+      "Eine Sichtverbindung über einen Bildschirm (FPV) ist ausreichend."
+    ],
+    "correct_answer": "Das UAS muss immer in direkter Sichtweite (VLOS) des Fernpiloten bleiben."
+  },
+  {
+    "id": 5,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Ist eine Haftpflichtversicherung für den Betrieb eines UAS in Deutschland in der offenen Kategorie erforderlich?",
+    "antworten": [
+      "Nein, nur für gewerbliche Flüge.",
+      "Ja, für alle UAS, die am Luftverkehr teilnehmen.",
+      "Nur für UAS mit einer Startmasse über 2 kg."
+    ],
+    "correct_answer": "Ja, für alle UAS, die am Luftverkehr teilnehmen."
+  },
+  {
+    "id": 6,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was beschreibt die Abkürzung MTOM?",
+    "antworten": [
+      "Mindestbetriebsmasse (Minimum Operating Mass)",
+      "Höchstzulässige Startmasse (Maximum Take-Off Mass)",
+      "Maximale Flughöhe (Maximum Take-Off Altitude)"
+    ],
+    "correct_answer": "Höchstzulässige Startmasse (Maximum Take-Off Mass)"
+  },
+  {
+    "id": 7,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welche typische Auswirkung hat Müdigkeit auf die Fähigkeit eines Fernpiloten, die Drohne sicher zu steuern?",
+    "antworten": [
+      "Sie verlangsamt die Reaktionszeit und führt zu Fehlern in der Entscheidungsfindung.",
+      "Sie erhöht die Fähigkeit, sich auf ungewöhnliche Geräusche der Drohne zu konzentrieren.",
+      "Sie hat keinen signifikanten Einfluss auf die Steuerung, da die meisten Systeme automatisiert sind."
+    ],
+    "correct_answer": "Sie verlangsamt die Reaktionszeit und führt zu Fehlern in der Entscheidungsfindung."
+  },
+  {
+    "id": 8,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie sollte sich ein Fernpilot verhalten, wenn er eine bemannte Hubschrauber-Rettungsaktion in der Nähe seines Betriebsgebiets bemerkt?",
+    "antworten": [
+      "Der Betrieb darf fortgesetzt werden, solange der Sicherheitsabstand von 100 Metern eingehalten wird.",
+      "Der Flug ist sofort abzubrechen und das UAS unverzüglich sicher zu landen.",
+      "Die Flughöhe muss auf 30 Meter reduziert und der Rettungsaktion ausgewichen werden."
+    ],
+    "correct_answer": "Der Flug ist sofort abzubrechen und das UAS unverzüglich sicher zu landen."
+  },
+  {
+    "id": 9,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welcher Schritt gehört nicht zur UAS-Flugvorbereitung?",
+    "antworten": [
+      "Überprüfung der Wettervorhersage und der Windverhältnisse.",
+      "Kontrolle der Ladezustände von UAS-Akku und Fernsteuerung.",
+      "Meldung des Fluges an die örtliche Flugsicherung (DFS)."
+    ],
+    "correct_answer": "Meldung des Fluges an die örtliche Flugsicherung (DFS)."
+  },
+  {
+    "id": 10,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist der Mindestabstand, den ein UAS in der Unterkategorie A3 zu unbeteiligten Personen einhalten muss?",
+    "antworten": [
+      "20 Meter horizontal.",
+      "150 Meter horizontal.",
+      "Das UAS muss in einem Gebiet betrieben werden, in dem während des gesamten Betriebs keine unbeteiligten Personen gefährdet werden."
+    ],
+    "correct_answer": "Das UAS muss in einem Gebiet betrieben werden, in dem während des gesamten Betriebs keine unbeteiligten Personen gefährdet werden."
+  }
+]
