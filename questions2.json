@@ -1,0 +1,332 @@
+[
+  {
+    "id": 11,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Ab welcher Startmasse (MTOM) muss ein UAS in Deutschland zwingend haftpflichtversichert sein?",
+    "antworten": [
+      "Ab 250 g",
+      "Ab 2 kg",
+      "Ab dem ersten Gramm (versicherungspflichtig ab Inbetriebnahme)"
+    ],
+    "correct_answer": "Ab dem ersten Gramm (versicherungspflichtig ab Inbetriebnahme)"
+  },
+  {
+    "id": 12,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welche Regel beschreibt den horizontalen Sicherheitsabstand zu unbeteiligten Personen im Verhältnis zur Flughöhe?",
+    "antworten": [
+      "Die 2:1-Regel (doppelter Abstand zur Höhe)",
+      "Die 1:1-Regel (Abstand entspricht mindestens der Flughöhe)",
+      "Die 120-Meter-Regel"
+    ],
+    "correct_answer": "Die 1:1-Regel (Abstand entspricht mindestens der Flughöhe)"
+  },
+  {
+    "id": 13,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was gilt für den Überflug von Wohngrundstücken mit einer Drohne, die eine Kamera besitzt?",
+    "antworten": [
+      "Der Überflug ist verboten, es sei denn, der Eigentümer hat ausdrücklich zugestimmt.",
+      "Der Überflug ist erlaubt, solange man höher als 100 Meter fliegt.",
+      "Der Überflug ist erlaubt, solange keine Personen erkennbar sind."
+    ],
+    "correct_answer": "Der Überflug ist verboten, es sei denn, der Eigentümer hat ausdrücklich zugestimmt."
+  },
+  {
+    "id": 14,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was bedeutet der Begriff 'VLOS' im Drohnenbetrieb?",
+    "antworten": [
+      "Virtual Location Operating System",
+      "Visual Line of Sight (Direkte Sichtverbindung)",
+      "Video Link Operating Speed"
+    ],
+    "correct_answer": "Visual Line of Sight (Direkte Sichtverbindung)"
+  },
+  {
+    "id": 15,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Wie verhält sich die Akkukapazität eines LiPo-Akkus bei sehr niedrigen Außentemperaturen?",
+    "antworten": [
+      "Die Kapazität steigt, da die Selbstentladung geringer ist.",
+      "Die verfügbare Kapazität sinkt und die Spannung kann unter Last einbrechen.",
+      "Die Temperatur hat keinen Einfluss auf die chemischen Prozesse im Akku."
+    ],
+    "correct_answer": "Die verfügbare Kapazität sinkt und die Spannung kann unter Last einbrechen."
+  },
+  {
+    "id": 16,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was versteht man unter dem Begriff 'Leere-Feld-Myopie' (Empty Field Myopia)?",
+    "antworten": [
+      "Die Unfähigkeit, bei Nacht Hindernisse zu erkennen.",
+      "Die Tendenz der Augen, bei strukturlosem Hintergrund (z.B. blauer Himmel) auf eine kurze Distanz (ca. 2m) scharf zu stellen.",
+      "Eine Form der Kurzsichtigkeit, die nur bei extremer Müdigkeit auftritt."
+    ],
+    "correct_answer": "Die Tendenz der Augen, bei strukturlosem Hintergrund (z.B. blauer Himmel) auf eine kurze Distanz (ca. 2m) scharf zu stellen."
+  },
+  {
+    "id": 17,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf eine Drohne der Klasse C1 (bis 900g) über unbeteiligte Personen fliegen?",
+    "antworten": [
+      "Ja, das ist generell erlaubt.",
+      "Es sollte nach Möglichkeit vermieden werden. Falls es passiert, muss die Zeit des Überflugs so kurz wie möglich gehalten werden.",
+      "Nein, ein Überflug von Personen ist in der Unterkategorie A1 strikt untersagt."
+    ],
+    "correct_answer": "Es sollte nach Möglichkeit vermieden werden. Falls es passiert, muss die Zeit des Überflugs so kurz wie möglich gehalten werden."
+  },
+  {
+    "id": 18,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welches Mindestalter gilt in Deutschland in der Regel für Fernpiloten in der offenen Kategorie (ohne Aufsicht)?",
+    "antworten": [
+      "12 Jahre",
+      "14 Jahre",
+      "16 Jahre"
+    ],
+    "correct_answer": "16 Jahre"
+  },
+  {
+    "id": 19,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was muss ein Fernpilot vor jedem Flug bezüglich des Luftraums prüfen?",
+    "antworten": [
+      "Ob das Gebiet in einer geografischen Zone mit Flugbeschränkungen liegt (z.B. Naturschutzgebiet, Flughafen-Kontrollzone).",
+      "Nur ob das Wetter gut genug für die Sichtverbindung ist.",
+      "Es muss keine Prüfung erfolgen, solange man unter 50 Metern bleibt."
+    ],
+    "correct_answer": "Ob das Gebiet in einer geografischen Zone mit Flugbeschränkungen liegt (z.B. Naturschutzgebiet, Flughafen-Kontrollzone)."
+  },
+  {
+    "id": 20,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was passiert bei einem 'Fly-Away' der Drohne?",
+    "antworten": [
+      "Die Drohne landet automatisch am Startpunkt.",
+      "Die Drohne reagiert nicht mehr auf Steuerbefehle und fliegt unkontrolliert in eine Richtung davon.",
+      "Die Drohne schaltet die Motoren ab und fällt senkrecht zu Boden."
+    ],
+    "correct_answer": "Die Drohne reagiert nicht mehr auf Steuerbefehle und fliegt unkontrolliert in eine Richtung davon."
+  },
+  {
+    "id": 21,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist eine 'Menschenansammlung' im Sinne der EU-Drohnenverordnung?",
+    "antworten": [
+      "Eine Gruppe von mehr als 3 Personen.",
+      "Eine so große Anzahl von Menschen, dass es einer einzelnen Person fast unmöglich ist, sich daraus zu entfernen.",
+      "Jeder öffentliche Ort, an dem sich Personen aufhalten könnten."
+    ],
+    "correct_answer": "Eine so große Anzahl von Menschen, dass es einer einzelnen Person fast unmöglich ist, sich daraus zu entfernen."
+  },
+  {
+    "id": 22,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welche Faustformel gilt für den Konsum von Alkohol vor einem Flug?",
+    "antworten": [
+      "Mindestens 8 Stunden zwischen dem letzten Glas Alkohol und dem Start (8-Stunden-Regel).",
+      "Man darf fliegen, solange man sich fahrtüchtig fühlt.",
+      "Nach einem Bier reicht eine Wartezeit von 2 Stunden."
+    ],
+    "correct_answer": "Mindestens 8 Stunden zwischen dem letzten Glas Alkohol und dem Start (8-Stunden-Regel)."
+  },
+  {
+    "id": 23,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welche Funktion hat das IMU-Modul (Inertial Measurement Unit) in einer Drohne?",
+    "antworten": [
+      "Es misst die Signalstärke der Fernbedienung.",
+      "Es ist für die Lagestabilisierung zuständig (Beschleunigungs- und Drehratensensoren).",
+      "Es speichert die Videodaten auf der SD-Karte."
+    ],
+    "correct_answer": "Es ist für die Lagestabilisierung zuständig (Beschleunigungs- und Drehratensensoren)."
+  },
+  {
+    "id": 24,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Warum ist es riskant, in der Nähe von Hochspannungsleitungen oder Sendemasten zu fliegen?",
+    "antworten": [
+      "Wegen möglicher elektromagnetischer Interferenzen, die den Kompass oder die Funkverbindung stören können.",
+      "Wegen der starken Aufwinde, die durch die Wärme der Leitungen entstehen.",
+      "Es gibt kein Risiko, solange man die Kabel nicht berührt."
+    ],
+    "correct_answer": "Wegen möglicher elektromagnetischer Interferenzen, die den Kompass oder die Funkverbindung stören können."
+  },
+  {
+    "id": 25,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wo muss die Betreiber-ID (e-ID) an der Drohne angebracht werden?",
+    "antworten": [
+      "Gut sichtbar an der Außenseite der Drohne.",
+      "Zwingend im Batteriefach, um das Design nicht zu stören.",
+      "Sie muss nicht angebracht werden, es reicht, sie im Smartphone mitzuführen."
+    ],
+    "correct_answer": "Gut sichtbar an der Außenseite der Drohne."
+  },
+  {
+    "id": 26,
+    "thema": "Betriebliche Verfahren",
+    "frage": "In welcher Situation ist der Einsatz eines Luftraumbeobachters (Spotter) sinnvoll?",
+    "antworten": [
+      "Wenn der Fernpilot mit einer FPV-Brille fliegt, um VLOS sicherzustellen.",
+      "Wenn die Drohne schwerer als 5 kg ist.",
+      "Nur bei Nachtflügen."
+    ],
+    "correct_answer": "Wenn der Fernpilot mit einer FPV-Brille fliegt, um VLOS sicherzustellen."
+  },
+  {
+    "id": 27,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was ist 'Situationsbewusstsein' (Situational Awareness)?",
+    "antworten": [
+      "Das Wissen über die technischen Daten der Drohne.",
+      "Die Wahrnehmung der Umgebung, das Verständnis der aktuellen Lage und die Vorhersehung zukünftiger Zustände.",
+      "Die Fähigkeit, die Drohne bei starkem Wind zu landen."
+    ],
+    "correct_answer": "Die Wahrnehmung der Umgebung, das Verständnis der aktuellen Lage und die Vorhersehung zukünftiger Zustände."
+  },
+  {
+    "id": 28,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welchen Vorteil bietet ein GPS-gestützter Flugmodus?",
+    "antworten": [
+      "Die Drohne kann bei Signalverlust automatisch zum Startpunkt zurückkehren (RTH).",
+      "Die Drohne wird dadurch schneller.",
+      "Der Akku hält länger."
+    ],
+    "correct_answer": "Die Drohne kann bei Signalverlust automatisch zum Startpunkt zurückkehren (RTH)."
+  },
+  {
+    "id": 29,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist die Konsequenz, wenn man ohne gültigen Kompetenznachweis ein prüfungspflichtiges UAS steuert?",
+    "antworten": [
+      "Es ist lediglich eine Ordnungswidrigkeit ohne Bußgeld.",
+      "Es drohen empfindliche Bußgelder und der Versicherungsschutz kann erlöschen.",
+      "Man darf trotzdem fliegen, solange man einen erfahrenen Piloten dabei hat."
+    ],
+    "correct_answer": "Es drohen empfindliche Bußgelder und der Versicherungsschutz kann erlöschen."
+  },
+  {
+    "id": 30,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie weit muss man in der Unterkategorie A3 von Wohn-, Gewerbe- oder Erholungsgebieten entfernt bleiben?",
+    "antworten": [
+      "Mindestens 50 Meter.",
+      "Mindestens 150 Meter horizontal.",
+      "Es gibt keinen festen Abstand, solange man niemanden stört."
+    ],
+    "correct_answer": "Mindestens 150 Meter horizontal."
+  },
+  {
+    "id": 31,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welche Wetterbedingung stellt die größte Gefahr für die Elektronik und die Aerodynamik dar?",
+    "antworten": [
+      "Leichter Nebel.",
+      "Starker Regen oder gefrierender Regen (Vereisung).",
+      "Hohe Luftfeuchtigkeit bei 25 Grad."
+    ],
+    "correct_answer": "Starker Regen oder gefrierender Regen (Vereisung)."
+  },
+  {
+    "id": 32,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was beschreibt der 'Pitch' bei einer Drohne?",
+    "antworten": [
+      "Die Drehung um die Hochachse (Gieren).",
+      "Das Neigen der Drohne nach vorne oder hinten (Nicken).",
+      "Das seitliche Rollen."
+    ],
+    "correct_answer": "Das Neigen der Drohne nach vorne oder hinten (Nicken)."
+  },
+  {
+    "id": 33,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Warum ist Stress für Fernpiloten gefährlich?",
+    "antworten": [
+      "Weil er zu Tunnelblick führt und die Fähigkeit zur Problemlösung einschränkt.",
+      "Weil man dadurch die Fernbedienung zu fest drückt.",
+      "Stress hat keinen Einfluss auf die kognitive Leistung."
+    ],
+    "correct_answer": "Weil er zu Tunnelblick führt und die Fähigkeit zur Problemlösung einschränkt."
+  },
+  {
+    "id": 34,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was versteht man unter 'Geofencing'?",
+    "antworten": [
+      "Ein elektronisches System, das verhindert, dass Drohnen in gesperrte Lufträume einfliegen.",
+      "Das Umzäunen des Startplatzes mit Flatterband.",
+      "Eine spezielle Versicherung für geografische Zonen."
+    ],
+    "correct_answer": "Ein elektronisches System, das verhindert, dass Drohnen in gesperrte Lufträume einfliegen."
+  },
+  {
+    "id": 35,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welche Komponente sorgt dafür, dass die Kamera trotz Bewegungen der Drohne stabil bleibt?",
+    "antworten": [
+      "Der Propeller-Guard.",
+      "Das Gimbal.",
+      "Der Flight Controller."
+    ],
+    "correct_answer": "Das Gimbal."
+  },
+  {
+    "id": 36,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf man eine Drohne unter dem Einfluss von psychoaktiven Medikamenten steuern?",
+    "antworten": [
+      "Ja, wenn die Drohne leichter als 250g ist.",
+      "Nein, die Flugtüchtigkeit muss immer voll gegeben sein.",
+      "Nur wenn man sich trotzdem fit genug fühlt."
+    ],
+    "correct_answer": "Nein, die Flugtüchtigkeit muss immer voll gegeben sein."
+  },
+  {
+    "id": 37,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie sollte man auf eine Beinahe-Kollision mit einem bemannten Flugzeug reagieren?",
+    "antworten": [
+      "Den Vorfall ignorieren, wenn nichts passiert ist.",
+      "Den Vorfall über das Meldesystem für Ereignisse (Reporting) dem LBA melden.",
+      "Sofort die Polizei rufen, damit diese das Flugzeug warnt."
+    ],
+    "correct_answer": "Den Vorfall über das Meldesystem für Ereignisse (Reporting) dem LBA melden."
+  },
+  {
+    "id": 38,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Wie scannt man den Luftraum am effektivsten auf andere Luftfahrzeuge?",
+    "antworten": [
+      "Den Blick starr auf einen Punkt richten.",
+      "Den Himmel in kleinen Sektoren (ca. 10 Grad) systematisch mit den Augen abtasten.",
+      "Nur auf die Warnsignale der App vertrauen."
+    ],
+    "correct_answer": "Den Himmel in kleinen Sektoren (ca. 10 Grad) systematisch mit den Augen abtasten."
+  },
+  {
+    "id": 39,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist die Hauptgefahr bei einer Tiefentladung eines LiPo-Akkus?",
+    "antworten": [
+      "Der Akku wird schwerer.",
+      "Der Akku kann sich aufblähen, dauerhaft Kapazität verlieren oder beim nächsten Laden in Brand geraten.",
+      "Es gibt keine Gefahr, man muss ihn nur länger laden."
+    ],
+    "correct_answer": "Der Akku kann sich aufblähen, dauerhaft Kapazität verlieren oder beim nächsten Laden in Brand geraten."
+  },
+  {
+    "id": 40,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Gilt die EU-Drohnenverordnung auch für den Betrieb in Innenräumen?",
+    "antworten": [
+      "Ja, für alle Flüge.",
+      "Nein, sie gilt nur für den Betrieb im Freien (außerhalb von Gebäuden).",
+      "Nur wenn der Innenraum öffentlich zugänglich ist."
+    ],
+    "correct_answer": "Nein, sie gilt nur für den Betrieb im Freien (außerhalb von Gebäuden)."
+  }
+]

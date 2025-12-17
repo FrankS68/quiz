@@ -1,0 +1,442 @@
+[
+  {
+    "id": 41,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Ab wann muss sich ein Betreiber eines UAS in Deutschland registrieren (e-ID)?",
+    "antworten": [
+      "Nur wenn die Drohne schwerer als 2 kg ist.",
+      "Wenn das UAS eine Startmasse von 250 g oder mehr hat ODER mit einem Sensor zur Erfassung personenbezogener Daten (z. B. Kamera) ausgestattet ist (außer Spielzeug).",
+      "Nur bei gewerblicher Nutzung."
+    ],
+    "correct_answer": "Wenn das UAS eine Startmasse von 250 g oder mehr hat ODER mit einem Sensor zur Erfassung personenbezogener Daten (z. B. Kamera) ausgestattet ist (außer Spielzeug)."
+  },
+  {
+    "id": 42,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welche technische Anforderung ist für Drohnen ab dem 01.01.2024 bei Nachtflügen in der offenen Kategorie zwingend vorgeschrieben?",
+    "antworten": [
+      "Ein helles, weißes Scheinwerferlicht nach vorne.",
+      "Ein grünes Funkellicht (Blinklicht) zur besseren Erkennbarkeit der Position.",
+      "Es gibt keine technischen Anforderungen, solange die Umgebung beleuchtet ist."
+    ],
+    "correct_answer": "Ein grünes Funkellicht (Blinklicht) zur besseren Erkennbarkeit der Position."
+  },
+  {
+    "id": 43,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie ist der korrekte Umgang mit 'NOTAMs' (Notice to Airmen) vor einem Flug?",
+    "antworten": [
+      "Sie müssen ignoriert werden, da sie nur für die bemannte Luftfahrt gelten.",
+      "Sie müssen vor dem Flug geprüft werden, da sie kurzfristige Gefahren oder Luftraumbeschränkungen enthalten.",
+      "Sie müssen nur bei Flügen über 120 Meter Höhe beachtet werden."
+    ],
+    "correct_answer": "Sie müssen vor dem Flug geprüft werden, da sie kurzfristige Gefahren oder Luftraumbeschränkungen enthalten."
+  },
+  {
+    "id": 44,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Wie wirkt sich Alkoholkonsum auf die visuelle Wahrnehmung aus?",
+    "antworten": [
+      "Das Sichtfeld wird größer (Weitwinkeleffekt).",
+      "Es kommt zur Einschränkung des peripheren Sehens (Tunnelblick) und Verschlechterung der Tiefenwahrnehmung.",
+      "Die Nachtsichtfähigkeit verbessert sich durch die Entspannung."
+    ],
+    "correct_answer": "Es kommt zur Einschränkung des peripheren Sehens (Tunnelblick) und Verschlechterung der Tiefenwahrnehmung."
+  },
+  {
+    "id": 45,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist die Funktion eines Barometers in einem UAS?",
+    "antworten": [
+      "Es misst die Windgeschwindigkeit.",
+      "Es dient zur Bestimmung und Halten der relativen Flughöhe über den Luftdruck.",
+      "Es berechnet die Entfernung zum nächsten Hindernis."
+    ],
+    "correct_answer": "Es dient zur Bestimmung und Halten der relativen Flughöhe über den Luftdruck."
+  },
+  {
+    "id": 46,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welcher Mindestabstand muss zu Bundesfernstraßen (Autobahnen) in der Regel eingehalten werden, wenn keine Ausnahmeregelung greift?",
+    "antworten": [
+      "10 Meter.",
+      "100 Meter (seitlich zur Fahrbahn).",
+      "500 Meter."
+    ],
+    "correct_answer": "100 Meter (seitlich zur Fahrbahn)."
+  },
+  {
+    "id": 47,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "In welcher Drohnenklasse (CE-Klassen) befinden sich typischerweise 'Bestandsdrohnen' ohne Klassenmarkierung über 250g?",
+    "antworten": [
+      "Sie werden dauerhaft wie Klasse C0 behandelt.",
+      "Sie dürfen in der Unterkategorie A3 (weit weg von Menschen) betrieben werden.",
+      "Sie dürfen gar nicht mehr geflogen werden."
+    ],
+    "correct_answer": "Sie dürfen in der Unterkategorie A3 (weit weg von Menschen) betrieben werden."
+  },
+  {
+    "id": 48,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welches Wetterphänomen kann die Steuerbarkeit einer Drohne massiv beeinträchtigen, ohne dass am Boden starker Wind weht?",
+    "antworten": [
+      "Bodennebel.",
+      "Scherwinde (Windshear) in größeren Höhen.",
+      "Hoher Luftdruck."
+    ],
+    "correct_answer": "Scherwinde (Windshear) in größeren Höhen."
+  },
+  {
+    "id": 49,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Auf welchen Frequenzbändern wird die Funkverbindung zwischen Fernsteuerung und UAS meistens betrieben?",
+    "antworten": [
+      "800 MHz und 1800 MHz.",
+      "2,4 GHz und 5,8 GHz.",
+      "FM 35 MHz und 40 MHz."
+    ],
+    "correct_answer": "2,4 GHz und 5,8 GHz."
+  },
+  {
+    "id": 50,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was versteht man unter 'Flicker-Vertigo'?",
+    "antworten": [
+      "Ein Schwindelgefühl, das durch rotierende Propellerblätter bei Gegenlicht oder blinkende Lichter ausgelöst werden kann.",
+      "Die Angst vor großen Höhen.",
+      "Eine Form der Reisekrankheit beim Tragen einer FPV-Brille."
+    ],
+    "correct_answer": "Ein Schwindelgefühl, das durch rotierende Propellerblätter bei Gegenlicht oder blinkende Lichter ausgelöst werden kann."
+  },
+  {
+    "id": 51,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf man mit einer Drohne über Naturschutzgebiete fliegen?",
+    "antworten": [
+      "Ja, solange man die Tiere nicht stört.",
+      "In Deutschland ist der Betrieb über Naturschutzgebieten gemäß LuftVO grundsätzlich verboten (Ausnahmen möglich).",
+      "Ja, aber nur bis zu einer Höhe von 50 Metern."
+    ],
+    "correct_answer": "In Deutschland ist der Betrieb über Naturschutzgebieten gemäß LuftVO grundsätzlich verboten (Ausnahmen möglich)."
+  },
+  {
+    "id": 52,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie sollte der Landeplatz für ein UAS idealerweise beschaffen sein?",
+    "antworten": [
+      "Staubig und sandig, um den Aufprall zu dämpfen.",
+      "Eben, fest und frei von Hindernissen sowie unbeteiligten Personen.",
+      "In der Nähe von hohen Bäumen, um Schatten für den Piloten zu bieten."
+    ],
+    "correct_answer": "Eben, fest und frei von Hindernissen sowie unbeteiligten Personen."
+  },
+  {
+    "id": 53,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Warum ist ein Kompass für ein UAS wichtig?",
+    "antworten": [
+      "Zur Bestimmung der Fluggeschwindigkeit.",
+      "Damit das UAS weiß, in welche Himmelsrichtung es ausgerichtet ist (wichtig für GPS-Modi).",
+      "Um die Akkuspannung zu überwachen."
+    ],
+    "correct_answer": "Damit das UAS weiß, in welche Himmelsrichtung es ausgerichtet ist (wichtig für GPS-Modi)."
+  },
+  {
+    "id": 54,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was regelt die Datenschutz-Grundverordnung (DSGVO) im Zusammenhang mit Drohnen?",
+    "antworten": [
+      "Die maximale Sendeleistung der Fernbedienung.",
+      "Den Schutz personenbezogener Daten bei der Aufnahme von Bildern oder Videos von Personen.",
+      "Die Versicherungspflicht für Kameradrohnen."
+    ],
+    "correct_answer": "Den Schutz personenbezogener Daten bei der Aufnahme von Bildern oder Videos von Personen."
+  },
+  {
+    "id": 55,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welcher Faktor beeinflusst die Konzentrationsfähigkeit eines Fernpiloten negativ?",
+    "antworten": [
+      "Ausreichend Schlaf.",
+      "Ablenkung durch Zuschauer oder Mobiltelefone.",
+      "Regelmäßige Pausen zwischen den Flügen."
+    ],
+    "correct_answer": "Ablenkung durch Zuschauer oder Mobiltelefone."
+  },
+  {
+    "id": 56,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist bei der Nutzung von Checklisten zu beachten?",
+    "antworten": [
+      "Sie sind nur für Anfänger gedacht.",
+      "Sie helfen dabei, Routinefehler zu vermeiden und sicherzustellen, dass keine Sicherheitsaspekte vergessen werden.",
+      "Sie müssen handschriftlich geführt werden, um gültig zu sein."
+    ],
+    "correct_answer": "Sie helfen dabei, Routinefehler zu vermeiden und sicherzustellen, dass keine Sicherheitsaspekte vergessen werden."
+  },
+  {
+    "id": 57,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was bedeutet 'Failsafe' bei einer Drohne?",
+    "antworten": [
+      "Die Drohne stürzt bei einem Fehler sofort ab.",
+      "Ein vordefiniertes Sicherheitsmanöver (z.B. RTH oder Landung), das bei Funkabriss automatisch ausgelöst wird.",
+      "Ein Modus, in dem die Drohne besonders schnell fliegt."
+    ],
+    "correct_answer": "Ein vordefiniertes Sicherheitsmanöver (z.B. RTH oder Landung), das bei Funkabriss automatisch ausgelöst wird."
+  },
+  {
+    "id": 58,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie erkennt man eine geografische Zone (Flugbeschränkungsgebiet) in Deutschland am besten?",
+    "antworten": [
+      "Durch Beobachtung der Vögel in der Region.",
+      "Durch Nutzung offizieller digitaler Plattformen (z. B. dipul oder Drohnen-Apps).",
+      "Durch Nachfragen bei Passanten."
+    ],
+    "correct_answer": "Durch Nutzung offizieller digitaler Plattformen (z. B. dipul oder Drohnen-Apps)."
+  },
+  {
+    "id": 59,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welche Auswirkung hat starke Sonnenaktivität (hoher Kp-Index) auf den UAS-Betrieb?",
+    "antworten": [
+      "Keine, da die Sonne zu weit weg ist.",
+      "Sie kann das GPS-Signal stören und zu ungenauer Positionierung führen.",
+      "Der Akku entlädt sich schneller."
+    ],
+    "correct_answer": "Sie kann das GPS-Signal stören und zu ungenauer Positionierung führen."
+  },
+  {
+    "id": 60,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Wofür steht die Abkürzung ESC in der Drohnentechnik?",
+    "antworten": [
+      "Electronic Speed Controller (Drehzahlregler für die Motoren).",
+      "Emergency System Control.",
+      "Extended Signal Connection."
+    ],
+    "correct_answer": "Electronic Speed Controller (Drehzahlregler für die Motoren)."
+  },
+  {
+    "id": 61,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welcher Mindestabstand ist zu Industrieanlagen in der Regel einzuhalten?",
+    "antworten": [
+      "50 Meter.",
+      "100 Meter.",
+      "Es gibt keinen Mindestabstand, sofern man nicht landet."
+    ],
+    "correct_answer": "100 Meter."
+  },
+  {
+    "id": 62,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was ist die Gefahr von 'Selbstüberschätzung' beim Drohnenflug?",
+    "antworten": [
+      "Der Pilot fliegt zu vorsichtig.",
+      "Der Pilot geht unnötige Risiken ein und missachtet Sicherheitsregeln oder Wetterbedingungen.",
+      "Die Drohne verbraucht mehr Strom."
+    ],
+    "correct_answer": "Der Pilot geht unnötige Risiken ein und missachtet Sicherheitsregeln oder Wetterbedingungen."
+  },
+  {
+    "id": 63,
+    "thema": "Betriebliche Verfahren",
+    "frage": "In welcher Einheit wird die Windgeschwindigkeit in der Luftfahrt häufig angegeben?",
+    "antworten": [
+      "Knoten (kt).",
+      "Watt (W).",
+      "Bar (bar)."
+    ],
+    "correct_answer": "Knoten (kt)."
+  },
+  {
+    "id": 64,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was passiert, wenn der Schwerpunkt eines UAS falsch eingestellt ist (z.B. durch schwere Zusatzlast)?",
+    "antworten": [
+      "Das Flugverhalten wird instabil und die Motoren müssen ungleichmäßig arbeiten, was die Flugzeit verkürzt.",
+      "Die Drohne wird automatisch schneller.",
+      "Das GPS-Signal wird unterbrochen."
+    ],
+    "correct_answer": "Das Flugverhalten wird instabil und die Motoren müssen ungleichmäßig arbeiten, was die Flugzeit verkürzt."
+  },
+  {
+    "id": 65,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Muss ein Fernpilot seinen Kompetenznachweis während des Flugbetriebs mitführen?",
+    "antworten": [
+      "Nein, es reicht, ihn zu Hause sicher aufzubewahren.",
+      "Ja, entweder in digitaler Form oder als Ausdruck.",
+      "Nur wenn man über 100 Meter hoch fliegt."
+    ],
+    "correct_answer": "Ja, entweder in digitaler Form oder als Ausdruck."
+  },
+  {
+    "id": 66,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf eine Drohne der Klasse C0 (unter 250g) über einzelne unbeteiligte Personen fliegen?",
+    "antworten": [
+      "Ja, aber Menschenansammlungen sind weiterhin verboten.",
+      "Nein, es müssen immer 50 Meter Abstand gehalten werden.",
+      "Nur mit einer Sondergenehmigung."
+    ],
+    "correct_answer": "Ja, aber Menschenansammlungen sind weiterhin verboten."
+  },
+  {
+    "id": 67,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welche Maßnahme reduziert das Risiko einer Kollision mit Vögeln?",
+    "antworten": [
+      "Vögel aktiv jagen, um sie zu verscheuchen.",
+      "Abstand zu Brutgebieten halten und den Flug abbrechen, wenn Vögel aggressives Verhalten zeigen.",
+      "Die Drohne bunt bemalen."
+    ],
+    "correct_answer": "Abstand zu Brutgebieten halten und den Flug abbrechen, wenn Vögel aggressives Verhalten zeigen."
+  },
+  {
+    "id": 68,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welchen Einfluss hat Dehydration (Wassermangel) auf den Piloten?",
+    "antworten": [
+      "Verbesserte Reflexe.",
+      "Kopfschmerzen, Schwindel und verringerte Aufmerksamkeit.",
+      "Keine Auswirkungen auf die Flugleistung."
+    ],
+    "correct_answer": "Kopfschmerzen, Schwindel und verringerte Aufmerksamkeit."
+  },
+  {
+    "id": 69,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Warum sollten LiPo-Akkus nicht voll aufgeladen über längere Zeit (Wochen) gelagert werden?",
+    "antworten": [
+      "Sie verlieren sonst ihre Farbe.",
+      "Die chemische Alterung wird beschleunigt und der Akku kann Schaden nehmen (Aufblähen).",
+      "Sie werden dadurch zu schwer für den Flug."
+    ],
+    "correct_answer": "Die chemische Alterung wird beschleunigt und der Akku kann Schaden nehmen (Aufblähen)."
+  },
+  {
+    "id": 70,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist das Ziel der 'U-Space' Initiative?",
+    "antworten": [
+      "Ein Weltraumprogramm für Drohnen.",
+      "Ein digitalisiertes System zur automatisierten Koordination von Drohnenverkehr in niedrigen Höhen.",
+      "Ein spezieller Bereich nur für Hobby-Piloten."
+    ],
+    "correct_answer": "Ein digitalisiertes System zur automatisierten Koordination von Drohnenverkehr in niedrigen Höhen."
+  },
+  {
+    "id": 71,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist nach einem Absturz der Drohne zu tun, bevor sie wieder gestartet wird?",
+    "antworten": [
+      "Nichts, einfach wieder losfliegen.",
+      "Eine gründliche technische Überprüfung auf Risse in den Armen, Schäden an Propellern und Funktion der Sensoren.",
+      "Nur den Akku wechseln."
+    ],
+    "correct_answer": "Eine gründliche technische Überprüfung auf Risse in den Armen, Schäden an Propellern und Funktion der Sensoren."
+  },
+  {
+    "id": 72,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welche Aufgabe hat das 'Telemetry'-System?",
+    "antworten": [
+      "Es überträgt Echtzeitdaten wie Akkuspannung, Höhe und GPS-Position vom UAS zur Fernsteuerung.",
+      "Es dient nur zum Versenden von Textnachrichten zwischen Piloten.",
+      "Es steuert die Kameraeinstellungen."
+    ],
+    "correct_answer": "Es überträgt Echtzeitdaten wie Akkuspannung, Höhe und GPS-Position vom UAS zur Fernsteuerung."
+  },
+  {
+    "id": 73,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welcher Abstand muss zu Krankenhäusern mit Hubschrauberlandeplatz eingehalten werden?",
+    "antworten": [
+      "100 Meter.",
+      "In der Regel gilt ein seitlicher Abstand von 100 Metern, sofern nicht anders durch Zonen geregelt.",
+      "Es gibt keinen speziellen Abstand."
+    ],
+    "correct_answer": "In der Regel gilt ein seitlicher Abstand von 100 Metern, sofern nicht anders durch Zonen geregelt."
+  },
+  {
+    "id": 74,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Wie reagiert das menschliche Auge bei Dunkelheit auf farbige Lichter?",
+    "antworten": [
+      "Farben werden nachts schärfer gesehen als tagsüber.",
+      "Die Farbwahrnehmung lässt nach, Graustufen dominieren (Stäbchensehen).",
+      "Nur blaues Licht kann nachts gesehen werden."
+    ],
+    "correct_answer": "Die Farbwahrnehmung lässt nach, Graustufen dominieren (Stäbchensehen)."
+  },
+  {
+    "id": 75,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was beschreibt die 'Beaufort-Skala'?",
+    "antworten": [
+      "Die Stärke der Funkwellen.",
+      "Die Klassifikation von Windstärken anhand ihrer Auswirkungen.",
+      "Das Gewicht der Drohne."
+    ],
+    "correct_answer": "Die Klassifikation von Windstärken anhand ihrer Auswirkungen."
+  },
+  {
+    "id": 76,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welcher Sensortyp hilft einer Drohne, bei niedriger Höhe über Boden (ohne GPS) die Position zu halten?",
+    "antworten": [
+      "Ein Infrarot-Thermometer.",
+      "Optical Flow (Optischer Flusssensor).",
+      "Ein Feuchtigkeitssensor."
+    ],
+    "correct_answer": "Optical Flow (Optischer Flusssensor)."
+  },
+  {
+    "id": 77,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist die maximale Sendeleistung (EIRP) für 2,4 GHz Fernsteuerungen in Europa (CE)?",
+    "antworten": [
+      "100 mW.",
+      "1000 mW.",
+      "10 mW."
+    ],
+    "correct_answer": "100 mW."
+  },
+  {
+    "id": 78,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wann sollte die Rückkehrfunktion (RTH) manuell ausgelöst werden?",
+    "antworten": [
+      "Wenn der Pilot die Orientierung verloren hat oder der Akku einen kritischen Stand erreicht.",
+      "Bei jedem Flugende, um Zeit zu sparen.",
+      "Nur wenn die Drohne brennt."
+    ],
+    "correct_answer": "Wenn der Pilot die Orientierung verloren hat oder der Akku einen kritischen Stand erreicht."
+  },
+  {
+    "id": 79,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welche Auswirkung hat 'Hypoxie' (Sauerstoffmangel) in großen Höhen?",
+    "antworten": [
+      "Erhöhte Aufmerksamkeit.",
+      "Eingeschränktes Urteilsvermögen und blaue Lippen.",
+      "Man wird extrem stark."
+    ],
+    "correct_answer": "Eingeschränktes Urteilsvermögen und blaue Lippen."
+  },
+  {
+    "id": 80,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wer haftet bei einem Schaden, den eine Drohne verursacht?",
+    "antworten": [
+      "Immer der Hersteller der Drohne.",
+      "Der Halter des UAS (Gefährdungshaftung).",
+      "Die Flugsicherung."
+    ],
+    "correct_answer": "Der Halter des UAS (Gefährdungshaftung)."
+  }
+]

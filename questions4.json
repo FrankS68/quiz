@@ -1,0 +1,442 @@
+[
+  {
+    "id": 81,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welche Drohnenklasse benötigt zwingend ein System zur Fernidentifizierung (Remote ID)?",
+    "antworten": [
+      "Alle Drohnen über 250g der Klassen C1, C2 und C3.",
+      "Nur Drohnen der Klasse C4.",
+      "Ausschließlich selbstgebaute Drohnen."
+    ],
+    "correct_answer": "Alle Drohnen über 250g der Klassen C1, C2 und C3."
+  },
+  {
+    "id": 82,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist die '1:1-Regel' beim horizontalen Sicherheitsabstand?",
+    "antworten": [
+      "Man muss immer 1 Meter Abstand pro 1 km/h Geschwindigkeit halten.",
+      "Der horizontale Abstand zu unbeteiligten Personen muss mindestens so groß sein wie die aktuelle Flughöhe.",
+      "Pro Drohne muss genau ein Fernpilot anwesend sein."
+    ],
+    "correct_answer": "Der horizontale Abstand zu unbeteiligten Personen muss mindestens so groß sein wie die aktuelle Flughöhe."
+  },
+  {
+    "id": 83,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was passiert bei 'Bewegungsnachbildern' (Motion Aftereffect)?",
+    "antworten": [
+      "Man sieht die Drohne doppelt.",
+      "Nach dem Starren auf eine gleichförmige Bewegung scheinen stationäre Objekte sich in die Gegenrichtung zu bewegen.",
+      "Das Bild der Kamera wird verzögert übertragen."
+    ],
+    "correct_answer": "Nach dem Starren auf eine gleichförmige Bewegung scheinen stationäre Objekte sich in die Gegenrichtung zu bewegen."
+  },
+  {
+    "id": 84,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist der Vorteil von Brushless-Motoren gegenüber Bürstenmotoren?",
+    "antworten": [
+      "Sie sind billiger in der Herstellung.",
+      "Sie sind effizienter, langlebiger und wartungsfrei, da keine mechanischen Schleifkontakte vorhanden sind.",
+      "Sie benötigen keinen Fahrtregler (ESC)."
+    ],
+    "correct_answer": "Sie sind effizienter, langlebiger und wartungsfrei, da keine mechanischen Schleifkontakte vorhanden sind."
+  },
+  {
+    "id": 85,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "In welchem Fall darf die maximale Flughöhe von 120m überschritten werden?",
+    "antworten": [
+      "Wenn man ein Hindernis von mehr als 120m Höhe umfliegt (auf Anfrage des Betreibers und bis max. 15m über dem Hindernis).",
+      "Wenn man besonders schnell fliegen möchte.",
+      "Generell nie in der offenen Kategorie."
+    ],
+    "correct_answer": "Wenn man ein Hindernis von mehr als 120m Höhe umfliegt (auf Anfrage des Betreibers und bis max. 15m über dem Hindernis)."
+  },
+  {
+    "id": 86,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Welche Information liefert ein METAR-Bericht?",
+    "antworten": [
+      "Die aktuelle Versicherungssumme.",
+      "Aktuelle Wetterbeobachtungen an Flugplätzen (Wind, Sichtweite, Bewölkung).",
+      "Die Position der nächsten Ladestation."
+    ],
+    "correct_answer": "Aktuelle Wetterbeobachtungen an Flugplätzen (Wind, Sichtweite, Bewölkung)."
+  },
+  {
+    "id": 87,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist eine 'geografische Zone'?",
+    "antworten": [
+      "Ein Bereich, in dem der Drohnenflug eingeschränkt, verboten oder durch besondere Bedingungen erlaubt ist.",
+      "Die Einteilung der Welt in Kontinente.",
+      "Ein Gebiet mit besonders gutem GPS-Empfang."
+    ],
+    "correct_answer": "Ein Bereich, in dem der Drohnenflug eingeschränkt, verboten oder durch besondere Bedingungen erlaubt ist."
+  },
+  {
+    "id": 88,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was beschreibt der Begriff 'Geofencing'?",
+    "antworten": [
+      "Eine automatische Funktion, die verhindert, dass die Drohne in gesperrte Lufträume einfliegt.",
+      "Das Einzäunen des Startplatzes.",
+      "Ein spezieller Modus für das Fliegen über Zäunen."
+    ],
+    "correct_answer": "Eine automatische Funktion, die verhindert, dass die Drohne in gesperrte Lufträume einfliegt."
+  },
+  {
+    "id": 89,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Welche Farbe wird bei beginnender Dunkelheit vom menschlichen Auge am längsten wahrgenommen?",
+    "antworten": [
+      "Rot.",
+      "Blau-Grün.",
+      "Gelb."
+    ],
+    "correct_answer": "Blau-Grün."
+  },
+  {
+    "id": 90,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf ein Fernpilot während des Fluges eine FPV-Brille ohne Spotter verwenden?",
+    "antworten": [
+      "Ja, solange er vorsichtig fliegt.",
+      "Nein, es muss ein Luftraumbeobachter (Spotter) daneben stehen, der die Drohne in Sichtweite (VLOS) hat.",
+      "Nur wenn die Drohne leichter als 250g ist."
+    ],
+    "correct_answer": "Nein, es muss ein Luftraumbeobachter (Spotter) daneben stehen, der die Drohne in Sichtweite (VLOS) hat."
+  },
+  {
+    "id": 91,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was bedeutet 'Return to Home' (RTH)?",
+    "antworten": [
+      "Die Drohne schaltet sich aus.",
+      "Die Drohne fliegt automatisch zu einem gespeicherten Startpunkt zurück.",
+      "Die Drohne sendet ein Signal an das Smartphone des Besitzers."
+    ],
+    "correct_answer": "Die Drohne fliegt automatisch zu einem gespeicherten Startpunkt zurück."
+  },
+  {
+    "id": 92,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welcher Sensor ist primär für das Halten der Position bei Windstille verantwortlich?",
+    "antworten": [
+      "Das Barometer.",
+      "Das GPS-Modul.",
+      "Das Mikrofon."
+    ],
+    "correct_answer": "Das GPS-Modul."
+  },
+  {
+    "id": 93,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Welche Behörde ist in Deutschland für die Registrierung von Drohnenbetreibern zuständig?",
+    "antworten": [
+      "Das Luftfahrt-Bundesamt (LBA).",
+      "Die örtliche Polizei.",
+      "Das Einwohnermeldeamt."
+    ],
+    "correct_answer": "Das Luftfahrt-Bundesamt (LBA)."
+  },
+  {
+    "id": 94,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist bei der Landung auf Gras zu beachten?",
+    "antworten": [
+      "Nichts, Gras ist weich.",
+      "Hohes Gras kann die Propeller blockieren oder Feuchtigkeit in die Motoren bringen; ein Landing-Pad ist empfohlen.",
+      "Gras erhöht die GPS-Genauigkeit."
+    ],
+    "correct_answer": "Hohes Gras kann die Propeller blockieren oder Feuchtigkeit in die Motoren bringen; ein Landing-Pad ist empfohlen."
+  },
+  {
+    "id": 95,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was passiert, wenn ein Propeller eine kleine Kerbe hat?",
+    "antworten": [
+      "Es kann zu Vibrationen und im schlimmsten Fall zum Bruch des Propellers im Flug führen; er muss getauscht werden.",
+      "Man kann ihn mit Klebestreifen reparieren.",
+      "Die Drohne fliegt dadurch stabiler."
+    ],
+    "correct_answer": "Es kann zu Vibrationen und im schlimmsten Fall zum Bruch des Propellers im Flug führen; er muss getauscht werden."
+  },
+  {
+    "id": 96,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was ist 'Vigilanz'?",
+    "antworten": [
+      "Die Fähigkeit, über einen längeren Zeitraum die Aufmerksamkeit aufrechtzuerhalten.",
+      "Die Sehschärfe bei Nacht.",
+      "Die Reaktionsgeschwindigkeit auf akustische Reize."
+    ],
+    "correct_answer": "Die Fähigkeit, über einen längeren Zeitraum die Aufmerksamkeit aufrechtzuerhalten."
+  },
+  {
+    "id": 97,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie erkennt man eine Drohne der Klasse C2?",
+    "antworten": [
+      "An der Farbe.",
+      "An dem Klassen-Kennzeichnungssymbol (Kreis mit einer 2 darin) auf dem Gehäuse.",
+      "Sie hat immer sechs Motoren."
+    ],
+    "correct_answer": "An dem Klassen-Kennzeichnungssymbol (Kreis mit einer 2 darin) auf dem Gehäuse."
+  },
+  {
+    "id": 98,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie sollte man fliegen, um den Akku zu schonen?",
+    "antworten": [
+      "Immer mit Vollgas.",
+      "Gleichmäßige Flugbewegungen und Vermeidung von abrupten Manövern.",
+      "Möglichst viele Flips machen."
+    ],
+    "correct_answer": "Gleichmäßige Flugbewegungen und Vermeidung von abrupten Manövern."
+  },
+  {
+    "id": 99,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist die nominale Spannung einer einzelnen LiPo-Zelle?",
+    "antworten": [
+      "1,5 V.",
+      "3,7 V (bzw. 3,8 V bei LiHV).",
+      "12 V."
+    ],
+    "correct_answer": "3,7 V (bzw. 3,8 V bei LiHV)."
+  },
+  {
+    "id": 100,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf man über einer Autobahn fliegen, wenn man 120m hoch ist?",
+    "antworten": [
+      "Ja, die Höhe schützt die Autos.",
+      "Nein, in der Regel gilt ein seitlicher Abstand von 100m zu Autobahnen (außer bei speziellen Genehmigungen).",
+      "Nur wenn kein Verkehr ist."
+    ],
+    "correct_answer": "Nein, in der Regel gilt ein seitlicher Abstand von 100m zu Autobahnen (außer bei speziellen Genehmigungen)."
+  },
+  {
+    "id": 101,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welche Komponente verarbeitet die Sensordaten und steuert die Motoren?",
+    "antworten": [
+        "Die Kamera.",
+        "Der Flight Controller (Flugsteuerung).",
+        "Der Akku."
+    ],
+    "correct_answer": "Der Flight Controller (Flugsteuerung)."
+  },
+  {
+    "id": 102,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Was ist ein 'unbeteiligte Person'?",
+    "antworten": [
+        "Jemand, der dem Flug nicht ausdrücklich zugestimmt hat und keine Sicherheitseinweisungen erhalten hat.",
+        "Der Bruder des Piloten.",
+        "Jeder, der eine Sonnenbrille trägt."
+    ],
+    "correct_answer": "Jemand, der dem Flug nicht ausdrücklich zugestimmt hat und keine Sicherheitseinweisungen erhalten hat."
+  },
+  {
+    "id": 103,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie wirkt sich Windschatten hinter Gebäuden aus?",
+    "antworten": [
+        "Es ist dort immer windstill.",
+        "Es können gefährliche Turbulenzen und Lee-Effekte auftreten.",
+        "Die Drohne wird dort schwerer."
+    ],
+    "correct_answer": "Es können gefährliche Turbulenzen und Lee-Effekte auftreten."
+  },
+  {
+    "id": 104,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Warum ist die Wahrnehmung von Entfernungen in der Luft schwierig?",
+    "antworten": [
+        "Wegen des Mangels an Referenzpunkten und Größenvergleichen im leeren Raum.",
+        "Weil die Drohne zu klein ist.",
+        "Weil das Licht in der Höhe anders ist."
+    ],
+    "correct_answer": "Wegen des Mangels an Referenzpunkten und Größenvergleichen im leeren Raum."
+  },
+  {
+    "id": 105,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Gilt der Kompetenznachweis A1/A3 in ganz Europa?",
+    "antworten": [
+        "Nein, nur in dem Land, in dem er ausgestellt wurde.",
+        "Ja, er ist in allen EASA-Mitgliedstaaten gültig.",
+        "Nur in den Nachbarländern von Deutschland."
+    ],
+    "correct_answer": "Ja, er ist in allen EASA-Mitgliedstaaten gültig."
+  },
+  {
+    "id": 106,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist ein 'Pre-Flight-Check'?",
+    "antworten": [
+        "Ein Telefonat mit der Flugsicherung.",
+        "Eine systematische Überprüfung der Drohne und der Umgebung vor dem Start.",
+        "Das Aufladen der Fernbedienung."
+    ],
+    "correct_answer": "Eine systematische Überprüfung der Drohne und der Umgebung vor dem Start."
+  },
+  {
+    "id": 107,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Wofür steht 'GND' in einem Schaltplan?",
+    "antworten": [
+        "Ground (Masse/Minuspol).",
+        "Grand (Pluspol).",
+        "Gieren."
+    ],
+    "correct_answer": "Ground (Masse/Minuspol)."
+  },
+  {
+    "id": 108,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Wie hoch ist das Bußgeld bei Verstößen gegen die Drohnenverordnung?",
+    "antworten": [
+        "Maximal 50 Euro.",
+        "Je nach Schwere bis zu 50.000 Euro.",
+        "Es gibt keine Bußgelder, nur Verwarnungen."
+    ],
+    "correct_answer": "Je nach Schwere bis zu 50.000 Euro."
+  },
+  {
+    "id": 109,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Warum sollte man nicht bei Gewitter fliegen?",
+    "antworten": [
+        "Gefahr von Blitzeinschlägen, starken Böen und plötzlichem Druckabfall.",
+        "Das GPS funktioniert bei Regen besser.",
+        "Die Drohne wird nass und dadurch schwerer."
+    ],
+    "correct_answer": "Gefahr von Blitzeinschlägen, starken Böen und plötzlichem Druckabfall."
+  },
+  {
+    "id": 110,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Was hilft gegen Stress beim Erstflug?",
+    "antworten": [
+        "Kaffee trinken.",
+        "Gute Vorbereitung, Nutzung von Flugsimulatoren und eine ruhige Umgebung.",
+        "Möglichst schnell fliegen."
+    ],
+    "correct_answer": "Gute Vorbereitung, Nutzung von Flugsimulatoren und eine ruhige Umgebung."
+  },
+  {
+    "id": 111,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf man eine Drohne mit einem Gewicht von 10kg in der Unterkategorie A1 betreiben?",
+    "antworten": [
+        "Ja.",
+        "Nein, die Grenze für A1 liegt deutlich niedriger (Klasse C0/C1).",
+        "Nur wenn sie Fallschirme hat."
+    ],
+    "correct_answer": "Nein, die Grenze für A1 liegt deutlich niedriger (Klasse C0/C1)."
+  },
+  {
+    "id": 112,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Welcher Propellertyp dreht sich im Uhrzeigersinn?",
+    "antworten": [
+        "CCW (Counter-Clockwise).",
+        "CW (Clockwise).",
+        "Push-Propeller."
+    ],
+    "correct_answer": "CW (Clockwise)."
+  },
+  {
+    "id": 113,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist bei Flügen in den Bergen zu beachten?",
+    "antworten": [
+        "Die Luft ist dünner, was die Effizienz der Propeller verringert und das Wetter kann extrem schnell umschlagen.",
+        "Dort gibt es kein GPS.",
+        "Dort darf man bis 500m hoch fliegen."
+    ],
+    "correct_answer": "Die Luft ist dünner, was die Effizienz der Propeller verringert und das Wetter kann extrem schnell umschlagen."
+  },
+  {
+    "id": 114,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Muss man den Absturz einer Drohne melden?",
+    "antworten": [
+        "Immer.",
+        "Nur wenn Personen verletzt wurden oder bemannte Luftfahrzeuge involviert waren.",
+        "Nie, das ist Privatsache."
+    ],
+    "correct_answer": "Nur wenn Personen verletzt wurden oder bemannte Luftfahrzeuge involviert waren."
+  },
+  {
+    "id": 115,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist ein 'Hexacopter'?",
+    "antworten": [
+        "Eine Drohne mit 4 Motoren.",
+        "Eine Drohne mit 6 Motoren.",
+        "Eine Drohne mit 8 Motoren."
+    ],
+    "correct_answer": "Eine Drohne mit 6 Motoren."
+  },
+  {
+    "id": 116,
+    "thema": "Menschliches Leistungsvermögen",
+    "frage": "Wie lange braucht das Auge, um sich vollständig an die Dunkelheit anzupassen?",
+    "antworten": [
+        "5 Minuten.",
+        "Etwa 30 Minuten.",
+        "2 Stunden."
+    ],
+    "correct_answer": "Etwa 30 Minuten."
+  },
+  {
+    "id": 117,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Was ist 'Luftausschau'?",
+    "antworten": [
+        "Das ständige Beobachten des Luftraums auf andere Teilnehmer.",
+        "Das Schauen aus dem Fenster.",
+        "Eine Wetter-App."
+    ],
+    "correct_answer": "Das ständige Beobachten des Luftraums auf andere Teilnehmer."
+  },
+  {
+    "id": 118,
+    "thema": "Luftrecht und Sicherheit",
+    "frage": "Darf man über Militäranlagen fliegen?",
+    "antworten": [
+        "Ja, wenn man nicht landet.",
+        "Nein, das ist streng verboten.",
+        "Nur am Wochenende."
+    ],
+    "correct_answer": "Nein, das ist streng verboten."
+  },
+  {
+    "id": 119,
+    "thema": "Allgemeine UAS-Kunde",
+    "frage": "Was ist die Funktion von LED-Leuchten an der Drohne?",
+    "antworten": [
+        "Positionsbestimmung, Statusanzeige (z.B. GPS-Fix) und Warnungen (z.B. Akku leer).",
+        "Sie dienen nur zur Dekoration.",
+        "Sie wärmen den Akku."
+    ],
+    "correct_answer": "Positionsbestimmung, Statusanzeige (z.B. GPS-Fix) und Warnungen (z.B. Akku leer)."
+  },
+  {
+    "id": 120,
+    "thema": "Betriebliche Verfahren",
+    "frage": "Wie verhält man sich bei einem Verbindungsabbruch?",
+    "antworten": [
+        "Ruhe bewahren und abwarten, ob das Failsafe-System (z.B. RTH) wie konfiguriert einsetzt.",
+        "Weglaufen.",
+        "Die Fernsteuerung ausschalten."
+    ],
+    "correct_answer": "Ruhe bewahren und abwarten, ob das Failsafe-System (z.B. RTH) wie konfiguriert einsetzt."
+  }
+]
