@@ -38,6 +38,11 @@ public class QuizItemService {
     }
     
     @Transactional(readOnly = true)
+    public List<QuizItem> findByCategory(String category) {
+        return quizItemRepository.findByCategory(category);
+    }
+    
+    @Transactional(readOnly = true)
     public List<Object[]> lookupCategories() {
         return quizItemRepository.lookupCategories();
     }

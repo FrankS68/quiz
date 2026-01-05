@@ -24,6 +24,14 @@ public class QuizService {
         return quiz;
     }
     
+    @Transactional
+    public Quiz createQuiz(String c,UserProfile u,String r) {
+        var quiz = new Quiz(c,u);
+        quiz.setResult(r);
+        quizRepository.saveAndFlush(quiz);
+        return quiz;
+    }
+    
     @Transactional(readOnly = true)
     public List<Quiz> list(Pageable pageable) {
         return quizRepository.findAllBy(pageable).toList();

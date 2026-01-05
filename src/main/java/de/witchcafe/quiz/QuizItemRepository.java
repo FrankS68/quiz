@@ -13,7 +13,8 @@ public interface QuizItemRepository extends JpaRepository<QuizItem, Long>, JpaSp
     // If you don't need a total row count, Slice is better than Page as it only performs a select query.
     // Page performs both a select and a count query.
     Slice<QuizItem> findAllBy(Pageable pageable);
-    
+	List<QuizItem> findByCategory(String category);
+
     @Query("SELECT category, count(*) FROM QuizItem GROUP BY category ORDER BY category DESC")
     List<Object[]> lookupCategories();
 }
